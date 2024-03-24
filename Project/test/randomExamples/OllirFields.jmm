@@ -1,0 +1,15 @@
+class OllirToJasminFields {
+
+    int intField;
+
+    public static void main(String[] args) {
+
+    }
+
+    public int foo() {
+        int a;
+        a = intField;
+
+        return 0;
+    }
+}
